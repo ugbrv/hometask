@@ -1,0 +1,8 @@
+C:\Users\Iury.Gubarev\source\repos\classwork\веселье\веселье\bin\Debug\веселье.exe.config
+C:\Users\Iury.Gubarev\source\repos\classwork\веселье\веселье\bin\Debug\веселье.exe
+C:\Users\Iury.Gubarev\source\repos\classwork\веселье\веселье\bin\Debug\веселье.pdb
+C:\Users\Iury.Gubarev\source\repos\classwork\веселье\веселье\obj\Debug\веселье.csproj.AssemblyReference.cache
+C:\Users\Iury.Gubarev\source\repos\classwork\веселье\веселье\obj\Debug\веселье.csproj.SuggestedBindingRedirects.cache
+C:\Users\Iury.Gubarev\source\repos\classwork\веселье\веселье\obj\Debug\веселье.csproj.CoreCompileInputs.cache
+C:\Users\Iury.Gubarev\source\repos\classwork\веселье\веселье\obj\Debug\веселье.exe
+C:\Users\Iury.Gubarev\source\repos\classwork\веселье\веселье\obj\Debug\веселье.pdb

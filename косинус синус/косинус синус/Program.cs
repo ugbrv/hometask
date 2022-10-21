@@ -10,6 +10,8 @@ namespace косинус_синус
     {
         static void Main(string[] args)
         {
+            static void PrintSinusCosinus(double angle);
         }
     }
 }
+ 
